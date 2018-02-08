@@ -1,1 +1,1 @@
-# hackerrank-natural-language-processing
+# hackerrank natural language processing
